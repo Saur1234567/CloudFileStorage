@@ -1,0 +1,6 @@
+This is a test file for DriveX upload testing.
+If you can see this after downloading it back, the upload + download flow works correctly.
+
+Test details:
+- File type: .txt
+- Purpose: Verify /api/files/upload and /api/files/download/{id} endpoints
